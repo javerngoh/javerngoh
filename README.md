@@ -13,6 +13,13 @@
 ## Notice
 Previous github account was deleted for security reasons.
 
+## 🧭 Navigation
+My repositories are organised in into these organisations. Click on the icons to navigate there.
+<p align="center">
+	<a href="https://github.com/Jevan-National-University-of-Singapore"><img img src="https://avatars.githubusercontent.com/u/117133258?s=400&u=b42b5427e7189349f65eaab68bb71d6c05b794b4&v=4" width="50px" alt="Jevan National University of Singapore"/></a>
+</p>
+
+
 ## :sassy_man:  About me
 - :school: I am an `Engineering Science Undergraduate` at National University of Singapore
 - :technologist: `Engineer` at Helios Applied Systems
@@ -33,7 +40,6 @@ Previous github account was deleted for security reasons.
 	<a href="mailto:javerngoh@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/javerngoh"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
-
 
 ## 🛠️ My Skills
 
