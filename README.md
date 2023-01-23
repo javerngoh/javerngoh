@@ -4,6 +4,34 @@
 </p>
 
 
+
+## :sassy_man:  About me
+
+```
+		  .  ...                	Jevan Goh
+	     ...,%&&&&&&&&#.            	
+	  .#&&&&&&&&&&&&&&&&&&(         	Education: Engineering Science Programme Undergrauate
+	*%&&&&&&&&&&&&&&&&%&%&&&%.      		   National University of Singapore
+      *%&&&&&#%(///%&&%&&%&&&&&%&&%.    
+     .%&&&%#(/********/%%&%&%&%%&&%#    	Occupation: Engineer
+      (&&&#(//*****,*****/#&&&&%%%%,    		    Helios Applied Systems
+      .%&%#(//************//&%#&&&%.    
+       /&&(#(///(//***/((///(/(&&%,     
+      ./(%//((%%**/**/**%%((*//&/(/     	Interests: Guitar, football
+       /*#/*******/**/***,****/%***     
+       .*(//*****/**,**,,****//(/*      
+	 **//****(*/**/*,***///*.       
+	   /////*/////****///*          
+	   .///*///**///**///.          
+	    /////*******////*           
+	   .//(%#(/////(##///.          
+      .#%&&&(///((/***/(////(%&%(.      
+  .#%%&&&&&#(////(((((//////(&&&&&%%#%#,
+ %&&&&&&&&&((/////(/////////&&&&&&&&&&&&
+ %&&&&&&&&&&///////////////&&&&&%%%&&&&&
+```
+
+
 <br>
 
 <p align="center"> 
@@ -20,18 +48,6 @@ My repositories are organised in into these organisations. Click on the icons to
 </p>
 
 
-## :sassy_man:  About me
-- :school: I am an `Engineering Science Undergraduate` at National University of Singapore
-- :technologist: `Engineer` at Helios Applied Systems
-- :guitar: I play the `guitar`
-
-<br>
-
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=javerngoh&theme=algolia" alt="7oSkaaa" /></p>
-
-<br>
-<br>
 
 
 
