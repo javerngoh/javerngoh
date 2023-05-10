@@ -13,8 +13,8 @@
 	  .#&&&&&&&&&&&&&&&&&&(         	Education: Engineering Science Programme Undergrauate
 	*%&&&&&&&&&&&&&&&&%&%&&&%.      		   National University of Singapore
       *%&&&&&#%(///%&&%&&%&&&&&%&&%.    
-     .%&&&%#(/********/%%&%&%&%%&&%#    	Occupation: Engineer
-      (&&&#(//*****,*****/#&&&&%%%%,    		    Helios Applied Systems
+     .%&&&%#(/********/%%&%&%&%%&&%#    	Occupation: Design Engineer (Electrical and Software)
+      (&&&#(//*****,*****/#&&&&%%%%,    		    Festos Pte Ltd
       .%&%#(//************//&%#&&&%.    
        /&&(#(///(//***/((///(/(&&%,     
       ./(%//((%%**/**/**%%((*//&/(/     	Interests: Guitar, football
